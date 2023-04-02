@@ -1,0 +1,12 @@
+{
+  "env": {
+    "NEXT_PUBLIC_REST_API_ENDPOINT": "/" 
+  },
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_REST_API_ENDPOINT": "/",
+      "NODE_ENV": "development"
+
+    }
+  }
+}

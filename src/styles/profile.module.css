@@ -1,0 +1,26 @@
+.avatar{
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+}
+.formContainer span{
+    font-weight: 600;
+
+}
+.formContainer button{
+    
+height: 42px;
+background: #1C7468 !important;
+border-radius: 50px !important;
+color: white;
+padding: 0 1rem;
+font-weight: 500;
+
+}
+.formContainer button:hover{
+    background: #1C7468 !important;
+    color: white;
+}
+.delete_btn{
+    background-color: red !important;
+}

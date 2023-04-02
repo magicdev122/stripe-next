@@ -1,0 +1,13 @@
+.navbarContainer{
+    font-family: 'Poppins';
+}
+.menu{
+    color: #000000BC !important;
+    font-family: 'Poppins';
+}
+.menu a{
+    color: #000000BC !important;
+    font-family: 'Poppins';
+    text-decoration: none;
+    white-space: nowrap;
+}
